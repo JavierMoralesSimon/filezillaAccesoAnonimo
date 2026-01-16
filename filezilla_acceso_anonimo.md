@@ -9,7 +9,7 @@ En el protocolo FTP, el acceso anónimo se logra creando un usuario con el nombr
   * Ponemos que no se requiera de autenticación.
   * Limitamos el directorio accesible diciendole al servidor a qué carpeta física del sistema debe de entrar el usuario. Esto se hace en la sección "Mount points" dando a "Add" y poniendo "/" en la columna "Virtual Path" lo cual indica que cuando el usuario entre, verá esa carpeta como su raíz, y poniendo la ruta completa de la carpeta en la columna "Native Path".
   * Por último, establecemos permisos solo de lectura en "Mount options -  Access mode" y desmarcamos todo lo demás.
-![](https://github.com/JavierMoralesSimon/filezillaAccesoAnonimo/blob/main/Capturas/1.png)
+![Creación del usuario anónimo](https://github.com/JavierMoralesSimon/filezillaAccesoAnonimo/blob/main/Capturas/1.png)
 
 ## Conexión como usuario anónimo desde un cliente
 * Abrir FileZilla Client.
@@ -19,9 +19,8 @@ En el protocolo FTP, el acceso anónimo se logra creando un usuario con el nombr
   * Contraseña lo dejamos vacío.
   * En puerto ponemos el 21.
   * Hacemos clic en "Conexión rápida".
-
-![](https://github.com/JavierMoralesSimon/filezillaAccesoAnonimo/blob/main/Capturas/2.1.png)
+![Creando conexión como usuario anónimo desde un cliente](https://github.com/JavierMoralesSimon/filezillaAccesoAnonimo/blob/main/Capturas/2.1.png)
 * Nos salta un aviso en el cual marcamos el checkbox de abajo y aceptamos.
-![](https://github.com/JavierMoralesSimon/filezillaAccesoAnonimo/blob/main/Capturas/2.2.png)
+![Aviso al crear conexión](https://github.com/JavierMoralesSimon/filezillaAccesoAnonimo/blob/main/Capturas/2.2.png)
 * Finalmente, hemos creado la conexión.
-![](https://github.com/JavierMoralesSimon/filezillaAccesoAnonimo/blob/main/Capturas/2.3.png)
+![Conexión creada como usuario anónimo desde un cliente](https://github.com/JavierMoralesSimon/filezillaAccesoAnonimo/blob/main/Capturas/2.3.png)
