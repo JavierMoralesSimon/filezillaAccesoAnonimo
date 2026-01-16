@@ -19,6 +19,7 @@ En el protocolo FTP, el acceso anónimo se logra creando un usuario con el nombr
   * Contraseña lo dejamos vacío.
   * En puerto ponemos el 21.
   * Hacemos clic en "Conexión rápida".
+
 ![](https://github.com/JavierMoralesSimon/filezillaAccesoAnonimo/blob/main/Capturas/2.1.png)
 * Nos salta un aviso en el cual marcamos el checkbox de abajo y aceptamos.
 ![](https://github.com/JavierMoralesSimon/filezillaAccesoAnonimo/blob/main/Capturas/2.2.png)
