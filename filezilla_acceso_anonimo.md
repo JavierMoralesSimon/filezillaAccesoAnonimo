@@ -14,11 +14,11 @@ En el protocolo FTP, el acceso anónimo se logra creando un usuario con el nombr
 ## Conexión como usuario anónimo desde un cliente
 * Abrir FileZilla Client.
 * En la barra de arriba:
- * En servidor escribimos la IP de nuestra máquina.
- * En el nombre de usuario escribimos "anonymous".
- * Contraseña lo dejamos vacío.
- * En puerto ponemos el 21.
- * Hacemos clic en "Conexión rápida".
+  * En servidor escribimos la IP de nuestra máquina.
+  * En el nombre de usuario escribimos "anonymous".
+  * Contraseña lo dejamos vacío.
+  * En puerto ponemos el 21.
+  * Hacemos clic en "Conexión rápida".
 ![](https://github.com/JavierMoralesSimon/filezillaAccesoAnonimo/blob/main/Capturas/2.1.png)
 * Nos salta un aviso en el cual marcamos el checkbox de abajo y aceptamos.
 ![](https://github.com/JavierMoralesSimon/filezillaAccesoAnonimo/blob/main/Capturas/2.2.png)
